@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+       printf("周杰伦\n"); 
+    return 0;
+}
