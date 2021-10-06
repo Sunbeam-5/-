@@ -1,0 +1,10 @@
+#include "stdio.h"
+int main()
+{
+    float d，r，s;
+    scanf("%f"，&d);
+    r=d/2;
+    s=3.1415926*r*r;
+    printf("%.5f"，s);
+    return 0;
+}
